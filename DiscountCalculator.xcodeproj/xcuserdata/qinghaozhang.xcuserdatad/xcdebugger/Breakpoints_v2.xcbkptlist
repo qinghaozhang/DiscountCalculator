@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiscountCalculator/ViewController.m"
+            timestampString = "523578804.399643"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "controlPad"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController controlPad]"
+                  moduleName = "DiscountCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinghaozhang/Documents/xcode/DiscountCalculator/DiscountCalculator/DiscountCalculator/DiscountCalculator/DiscountCalculator/DiscountCalculator/ViewController.m"
+                  timestampString = "523578804.655485"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController setControlPad:]"
+                  moduleName = "DiscountCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinghaozhang/Documents/xcode/DiscountCalculator/DiscountCalculator/DiscountCalculator/DiscountCalculator/DiscountCalculator/DiscountCalculator/ViewController.m"
+                  timestampString = "523578804.661154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
